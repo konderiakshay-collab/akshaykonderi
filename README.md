@@ -285,7 +285,7 @@ Building innovative solutions in
 
 # 🤝 Connect With Me
 
-📧 Email : your@email.com
+📧 Email : konderiakshay@gmail.com
 
 🌐 Portfolio : Coming Soon
 
