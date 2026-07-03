@@ -26,43 +26,27 @@
 
 ---
 
-# ⚡ About Me
+# 👨‍💻 About Me
 
-```cpp
-class AkshayKonderi
-{
-private:
+- 🚀 Founder of **Kapio Mind Creations**
+- 💼 Freelance **Embedded Systems Engineer**
+- 🤖 Robotics & Automation Developer
+- ⚡ ESP32 | STM32 | Arduino | Raspberry Pi
+- 🧠 AI, Computer Vision & TinyML Enthusiast
+- 📡 IoT Solution Architect
+- 🔧 PCB Designer & Firmware Developer
+- 🎓 Building STEM Education Kits
+- 🌱 Currently exploring Edge AI & Industrial IoT
 
-    string Name = "Akshay Konderi";
+### 🎯 Core Expertise
 
-    string Country = "India";
-
-    string Company = "Kapio Mind Creations";
-
-    string Role = "Embedded Systems Engineer";
-
-public:
-
-    vector<string> Skills =
-    {
-        "Embedded Systems",
-        "Artificial Intelligence",
-        "Internet of Things",
-        "Computer Vision",
-        "Firmware Development",
-        "PCB Design",
-        "Robotics",
-        "Automation",
-        "Electronics Product Design",
-        "Rapid Prototyping"
-    };
-
-    string Mission =
-    "Engineering intelligent products that connect AI with Electronics.";
-
-};
-```
-
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![IoT](https://img.shields.io/badge/Internet_of_Things-00C853?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB_Design-00897B?style=for-the-badge)
 ---
 
 # 🚀 Current Focus
