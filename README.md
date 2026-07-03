@@ -1,251 +1,285 @@
-# <h1 align="center">Hi 👋, I'm Akshay Konderi</h1>
+<div align="center">
 
-<h3 align="center">
-Embedded Systems Engineer • AI & IoT Developer • Electronics Product Designer • Freelancer • Startup Founder • STEM Innovator
-</h3>
+# 🤖 Akshay Konderi
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Artificial+Intelligence+Developer;Internet+of+Things+Specialist;Computer+Vision+Developer;PCB+Designer;Robotics+Developer;STEM+Education+Innovator;Founder+of+Kapio+Mind+Creations;Freelance+Electronics+Engineer" />
+### ⚡ Embedded Systems Engineer • Robotics Developer • AI & IoT Engineer • Electronics Product Designer • Freelancer • Startup Founder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Embedded+Systems+Engineer;Artificial+Intelligence+Developer;IoT+Solution+Architect;Robotics+Developer;Computer+Vision+Engineer;PCB+Designer;Electronics+Product+Developer;Founder+%40+Kapio+Mind+Creations" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00c3ff)
+
+</div>
+
+---
+
+# ⚙ About Me
+
+```cpp
+class AkshayKonderi
+{
+public:
+
+    String Role = "Embedded Systems Engineer";
+
+    String Company = "Kapio Mind Creations";
+
+    String Passion = "Building Intelligent Electronics";
+
+    String Expertise[] =
+    {
+        "Embedded Systems",
+        "Artificial Intelligence",
+        "Internet of Things",
+        "Computer Vision",
+        "Robotics",
+        "PCB Design",
+        "Firmware Development",
+        "Automation",
+        "Product Development"
+    };
+
+    String Mission =
+    "Design Smart Electronics that solve real-world problems.";
+};
+```
+
+---
+
+# 🚀 Tech Stack
+
+## Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,mysql"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎯 Embedded Systems Engineer passionate about designing intelligent electronic products.
-
-🤖 AI & Computer Vision Developer specializing in real-time embedded intelligence.
-
-📡 IoT Solution Developer using ESP32, ESP8266, Arduino, STM32 and Raspberry Pi.
-
-🛠 Electronics Product Designer from concept to PCB fabrication and deployment.
-
-💼 Freelance Embedded Systems & IoT Engineer helping startups and businesses build innovative products.
-
-🚀 Founder of **Kapio Mind Creations**, building AI, IoT, Robotics and STEM educational products.
-
-📚 Passionate about research, innovation, automation and next-generation learning technologies.
-
----
-
-# 💼 Professional Expertise
-
-- Embedded Systems Development
-- Internet of Things (IoT)
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Edge AI
-- Robotics
-- PCB Design
-- Electronics Product Development
-- Firmware Development
-- Rapid Prototyping
-- Automation Systems
-- Industrial IoT
-- Smart Agriculture
-- STEM Education Kits
-- Technical Documentation
-
----
-
-# 🛠 Programming Languages
+## Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,mysql"/>
-</p>
 
----
-
-# ⚙ Embedded Platforms
-
-<p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
 </p>
 
-### Also Experienced With
+### Hardware
 
 - ESP32
 - ESP8266
 - STM32
-- NodeMCU
-- AVR Microcontrollers
-- ATmega328P
-- ARM Cortex
+- Arduino Nano
+- Arduino Mega
+- Raspberry Pi
 - LoRa
+- RFID
 - GSM
 - GPS
-- RFID
-- Bluetooth
-- BLE
+- Bluetooth BLE
 - WiFi
-- MQTT
-- Modbus
+- Sensors
+- Servo Motors
+- Stepper Motors
 
 ---
 
-# 🤖 Artificial Intelligence
+## Robotics
 
-- Computer Vision
-- OpenCV
-- YOLO
-- TensorFlow Lite
-- MediaPipe
-- Deep Learning
-- Machine Learning
-- Edge AI
-- Object Detection
-- Image Processing
-- Facial Recognition
+🤖 Autonomous Robots
 
----
+🤖 Line Following Robots
 
-# 🌐 IoT Technologies
+🤖 Obstacle Avoidance
 
-- ESP32
-- Blynk IoT
-- Firebase
-- MQTT
-- HTTP APIs
-- REST APIs
-- WiFi
-- Bluetooth
-- Cloud Dashboards
-- OTA Updates
+🤖 AI Robots
+
+🤖 Smart Navigation
+
+🤖 Embedded Motion Control
+
+🤖 Robotic Arms
+
+🤖 STEM Robotics Kits
 
 ---
 
-# 💻 Software & Tools
+## Artificial Intelligence
+
+🧠 Machine Learning
+
+👁 Computer Vision
+
+📷 OpenCV
+
+🎯 YOLO
+
+🤖 TensorFlow Lite
+
+🎥 MediaPipe
+
+🛰 Edge AI
+
+📊 Image Processing
+
+---
+
+## PCB Design
+
+🔹 EasyEDA
+
+🔹 KiCad
+
+🔹 PCB Layout
+
+🔹 Schematic Design
+
+🔹 PCB Manufacturing
+
+🔹 Electronics Prototyping
+
+---
+
+## IoT
+
+📡 ESP32
+
+📡 MQTT
+
+📡 Firebase
+
+📡 Blynk
+
+📡 REST API
+
+📡 OTA Updates
+
+📡 Cloud Dashboards
+
+📡 Smart Automation
+
+---
+
+## Engineering Software
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma"/>
+
 </p>
 
-### Engineering Tools
+Arduino IDE
 
-- Arduino IDE
-- PlatformIO
-- EasyEDA
-- KiCad
-- Proteus
-- Fusion 360
-- MATLAB
-- VS Code
-- Git
-- GitHub
+PlatformIO
 
----
+EasyEDA
 
-# 📈 What I Build
+Fusion 360
 
-✔ Smart Irrigation Systems
+Proteus
 
-✔ AI Surveillance Systems
-
-✔ Smart Home Automation
-
-✔ Smart Bus Stop Systems
-
-✔ Smart Security Systems
-
-✔ Computer Vision Projects
-
-✔ AI Powered Robotics
-
-✔ STEM Learning Kits
-
-✔ Embedded AI Devices
-
-✔ IoT Dashboards
-
-✔ PCB Designs
-
-✔ Electronics Prototypes
-
-✔ Industrial Automation
+MATLAB
 
 ---
 
-# 🚀 Startup
+# 🚀 Current Focus
 
-## Kapio Mind Creations
+✔ AI Embedded Systems
 
-Building innovative solutions in
+✔ Robotics
 
-- Artificial Intelligence
-- Embedded Systems
-- Robotics
-- Internet of Things
-- STEM Education
-- Electronics Manufacturing
-- PCB Design
-- Product Development
-- Smart Automation
+✔ TinyML
+
+✔ Computer Vision
+
+✔ Smart Agriculture
+
+✔ Industrial IoT
+
+✔ AI Powered Automation
+
+✔ Electronics Manufacturing
+
+✔ STEM Education
+
+---
+
+# 🏢 Startup
+
+## 🚀 Kapio Mind Creations
+
+Developing
+
+🤖 Robotics
+
+⚡ Embedded Systems
+
+🧠 Artificial Intelligence
+
+🌐 Internet of Things
+
+🎓 STEM Learning Kits
+
+🔬 Research Projects
+
+🏭 Electronics Manufacturing
+
+📦 Product Development
 
 ---
 
 # 💼 Freelance Services
 
-✔ Embedded Systems Development
-
 ✔ ESP32 Projects
 
 ✔ Arduino Projects
 
-✔ IoT Product Development
+✔ STM32 Development
 
-✔ AI Integration
+✔ AI Projects
+
+✔ Robotics
 
 ✔ PCB Design
 
 ✔ Firmware Development
 
-✔ Robotics Projects
+✔ Product Prototyping
 
-✔ Automation Systems
+✔ Embedded Linux
 
-✔ Smart Agriculture
+✔ IoT Cloud Solutions
 
-✔ STEM Product Development
+✔ Computer Vision
 
-✔ Electronics Consultation
-
----
-
-# 🌱 Currently Learning
-
-- Edge AI
-- TinyML
-- ROS
-- Embedded Linux
-- AI Hardware Accelerators
-- Industrial IoT
-- Cloud Computing
-- Digital Twin Technologies
+✔ Technical Consulting
 
 ---
 
-# 📂 Featured Projects
+# 🔥 Featured Projects
 
-🚀 Smart Irrigation using ESP32 & Machine Learning
+🌱 Smart Irrigation using ML
 
-🚀 AI Drowsiness Detection System
+🚌 Smart Bus Stop Crowd Prediction
 
-🚀 Smart Bus Stop Crowd Prediction
+😴 AI Drowsiness Detection
 
-🚀 AI Robo Coding Learning Kit
+🔐 Smart Door Lock with OTP
 
-🚀 Smart Door Lock with OTP Verification
+🤖 AI Robo Coding Kit
 
-🚀 Home Automation using ESP32
+🏠 Home Automation
 
-🚀 Telegram Security System
+📡 Telegram Security System
 
-🚀 AI Vision Based Automation
+📷 Vision Based Automation
 
-🚀 PCB Design Library
+📈 Industrial IoT Dashboard
 
-🚀 IoT Dashboard Applications
+⚙ PCB Design Collection
 
 ---
 
@@ -253,11 +287,13 @@ Building innovative solutions in
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
 
 <p align="center">
 
@@ -271,7 +307,7 @@ Building innovative solutions in
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
 
 </p>
 
@@ -279,32 +315,52 @@ Building innovative solutions in
 
 # 📈 Contribution Graph
 
-[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🤝 Connect With Me
-
-📧 Email : konderiakshay@gmail.com
-
-🌐 Portfolio : Coming Soon
-
-💼 LinkedIn : Coming Soon
-
-🏢 Startup : Kapio Mind Creations
-
----
-
-# 💡 Motto
-
-> "Engineering intelligent solutions that bridge Artificial Intelligence, Embedded Systems, Robotics, and IoT to create innovative technologies for the future."
-
----
+# 🐍 Contribution Snake
 
 <p align="center">
 
-⭐ Thank you for visiting my profile! ⭐
-
-If you like my work, consider following me and exploring my repositories.
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email : konderiakshay@gmail.com
+
+💼 LinkedIn : https://www.linkedin.com/in/akshay-konderi-126947304
+
+🌐 Portfolio : Coming Soon
+
+🚀 Startup : Kapio Mind Creations
+
+---
+
+<div align="center">
+
+### ⚡ "Engineering Intelligence into Every Circuit."
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
