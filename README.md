@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00c3ff)
+![](https://komarev.com/ghpvc/?username=akshaykonderi&style=for-the-badge&color=00c3ff)
 
 </div>
 
